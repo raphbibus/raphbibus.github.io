@@ -1,4 +1,4 @@
-# Letters for Grandma — a take on self reflection
+# Letters for Grandma - a take on self-reflection
 
 _February 13, 2020_
 
