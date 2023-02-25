@@ -38,6 +38,14 @@ That's how Hans Thomann would describe working in the Thomann universe. As of no
 - Supported the creation of a career/training system
 - Worked on an introduction strategy for SAFe (scaled agile framework)
 
+## Founding Punk (8/18-3/23)
+**Self-employed: agile punks** Bamberg
+- Sessions, coaching and workshops with clients
+- Speaker at various conferences (e.g. Agile Beyond IT, Manage Agile)
+- Author of blog articles
+- Co-host of [ohne punk und koma](https://open.spotify.com/show/0v2mCSN9axEi0aujkzC4Fc?si=e61ab36d56c14dc7) podcast
+- Web development of [agile-punks.com](https://github.com/raphbibus/ap-2022)
+
 ## My glorious startup time
 The following four roles originated from the same cosmos, i.e. Fewclicks e-commerce GmbH, a holding company that was focused on founding startups.
 
@@ -64,6 +72,14 @@ The following four roles originated from the same cosmos, i.e. Fewclicks e-comme
 **Company: Favendo GmbH** Bamberg
 - Requirements engineering for enterprise location-based services projects (e.g. Munich & Frankfurt Airport)
 - Use case concepts for mobile (B2C) applications (e.g. indoor navigation, location-based advertising)
+
+### PHP & Web Developer (2/14-4/14)
+**Company: Fewclicks GmbH** Bamberg
+- Started to explore the Bamberg startup scene
+
+## PHP Developer (8/13-1/14)
+**Self-employed** Bamberg
+- Finished some projects that had been started in my time in NYC
 
 ## IT Helpdesk Manager & Systems Administrator (7/12-7/13)
 **Company: Vendome Group LLC** New York City
